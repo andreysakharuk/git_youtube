@@ -5,4 +5,6 @@ package net;
  */
 public class FinalClass {
 
+    private int newVariable;
+
 }
